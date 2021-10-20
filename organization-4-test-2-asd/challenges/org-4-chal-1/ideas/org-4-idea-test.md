@@ -1,7 +1,8 @@
+<div class="toggle-list toggle-list-default"><div class="toggle-list__title">toggle list title 1</div> 
 
-<div class="toggle-list__title">toggle list title 1</div> 
+<div class="toggle-list__content"><div class="toggle-list__wrapper">
 
-<div class="toggle-list__content"><div class="toggle-list__wrapper">![](https://83843.cdn.cke-cs.com/S7I4jRP8224AUYEqP7im/images/62caaface17676af0dc87fceaed2980d2794c5f721201d8c.jpg)toggle list content 1
+![](https://83843.cdn.cke-cs.com/S7I4jRP8224AUYEqP7im/images/62caaface17676af0dc87fceaed2980d2794c5f721201d8c.jpg)toggle list content 1
 
 head 1
 ------
@@ -32,7 +33,9 @@ num list
 
 <div class="toggle-list toggle-list-default"><div class="toggle-list__title">toggle list itle 2</div> 
 
-<div class="toggle-list__content"><div class="toggle-list__wrapper">toggle list content 2
+<div class="toggle-list__content"><div class="toggle-list__wrapper">
+
+toggle list content 2
 
  | qweqeqweqwe | qeqweqweqweqweqwe | qeqeqweqweqweqweqw |
 |---|---|---|
