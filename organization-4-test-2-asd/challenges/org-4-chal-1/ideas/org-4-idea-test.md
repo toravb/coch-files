@@ -1,15 +1,23 @@
 <div class="toggle-list toggle-list-default"><div class="toggle-list__title">toggle list title 1</div> 
+
 <div class="toggle-list__content"><div class="toggle-list__wrapper">toggle list content 1
 
 <div class="toggle-list toggle-list-default"><div class="toggle-list__title">toggle list itle 2</div> 
+
 <div class="toggle-list__content"><div class="toggle-list__wrapper">toggle list content 2
 
 </div> 
+
 </div> 
+
 </div> 
+
 </div> 
+
 </div> 
+
 </div> 
+
 <figure class="table">| qweqweqeqwe | qweqweqweqwe | qweqweqweqwe | qweqeqweqwe |
 |---|---|---|---|
 | head 1 table ------------ | ### head 2 table | #### head 3 table | **paragraph** |
