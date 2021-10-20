@@ -1,4 +1,5 @@
-<div class="toggle-list toggle-list-default"><div class="toggle-list__title">toggle list title 1</div> 
+
+<div class="toggle-list__title">toggle list title 1</div> 
 
 <div class="toggle-list__content"><div class="toggle-list__wrapper">![](https://83843.cdn.cke-cs.com/S7I4jRP8224AUYEqP7im/images/62caaface17676af0dc87fceaed2980d2794c5f721201d8c.jpg)toggle list content 1
 
