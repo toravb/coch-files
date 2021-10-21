@@ -90,13 +90,7 @@ text
 
 
 
-<table><thead><tr><th>qweqweqeqwe</th><th>qweqweqweqwe</th><th>qweqweqweqwe</th><th>qweqeqweqwe</th></tr></thead><tbody><tr><td>## head 1 table
-
-</td><td>### head 2 table
-
-</td><td>#### head 3 table
-
-</td><td>**paragraph**</td></tr><tr><td>> code table
+<table><thead><tr><th>qweqweqeqwe</th><th>qweqweqweqwe</th><th>qweqweqweqwe</th><th>qweqeqweqwe</th></tr></thead><tbody><tr><td><h2>head 1 table</h2></td><td><h3>head 2 table</h3></td><td><h4>head 3 table</h4></td><td>**paragraph**</td></tr><tr><td>> code table
 
 </td><td>[link table](https://cochorg.wn.staj.fun/organization-4-test-2-asd/challenges/org-4-chal-1/ideas/org-4-idea-test)</td><td>
 
