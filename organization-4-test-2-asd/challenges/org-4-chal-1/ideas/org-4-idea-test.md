@@ -31,6 +31,8 @@ num list
 
 > code
 
+> **bold code** [**link**](https://www.google.com/)
+
 <div class="toggle-list toggle-list-default"><div class="toggle-list__title">toggle list itle 2</div> 
 
 <div class="toggle-list__content"><div class="toggle-list__wrapper">
