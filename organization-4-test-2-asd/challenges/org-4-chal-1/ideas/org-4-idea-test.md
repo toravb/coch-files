@@ -40,7 +40,7 @@ toggle list content 2
  | qweqeqweqwe | qeqweqweqweqweqwe | qeqeqweqweqweqweqw |
 |---|---|---|
 | asdasdasda  adadadadada  sdasdasdasd | text   ![](https://83843.cdn.cke-cs.com/S7I4jRP8224AUYEqP7im/images/c8d9e45e42422995f55c1787355bd7f8125f04535c1e7469.jpg) text | asdadasdasdasdasdsadasdasdasd |
-|  \| qweqwe \| qweqwe \| qweqwe \| \|  \|  \|  \| \|  \| qweqwe \|  \|    | asdasdasdas |  |
+|  \| qweqwe \| qweqwe \| qweqwe \| \|  \|  \|  \| \|  \| qweqwe \|  \|    | asdasdasdas | - uuuu - iiiiiii - oooo |
 |---|---|---|
 
  </div> 
