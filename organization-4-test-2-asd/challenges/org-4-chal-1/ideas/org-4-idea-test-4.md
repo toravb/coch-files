@@ -66,10 +66,7 @@ text
 
 </td><td>asdasdasdas
 
-</td><td><ul>- uuuu
-- iiiiiii
-- oooo
-</ul>text
+</td><td><ul><li>uuuu</li><li>iiiiiii</li><li>oooo</li></ul>text
 
 </td></tr></tbody></table>
 
