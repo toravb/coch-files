@@ -4,8 +4,7 @@
 
 ![](https://83843.cdn.cke-cs.com/S7I4jRP8224AUYEqP7im/images/62caaface17676af0dc87fceaed2980d2794c5f721201d8c.jpg)toggle list content 1
 
-head 1
-------
+## head 1
 
 ### head 2
 
@@ -91,8 +90,7 @@ text
 
 
 
-<table><thead><tr><th>qweqweqeqwe</th><th>qweqweqweqwe</th><th>qweqweqweqwe</th><th>qweqeqweqwe</th></tr></thead><tbody><tr><td>head 1 table
-------------
+<table><thead><tr><th>qweqweqeqwe</th><th>qweqweqweqwe</th><th>qweqweqweqwe</th><th>qweqeqweqwe</th></tr></thead><tbody><tr><td>## head 1 table
 
 </td><td>### head 2 table
 
@@ -110,8 +108,7 @@ text
 
 paragraph
 
-head 1
-------
+## head 1
 
 ### head 2
 
